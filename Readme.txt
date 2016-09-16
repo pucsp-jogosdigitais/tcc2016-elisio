@@ -6,3 +6,5 @@ Vagner Xis
 Carlos Manuel
 
 História: Elísio.
+
+ver0.2
